@@ -1,7 +1,7 @@
 I like to write buggy software. 🎯
 
 
-[![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kernc&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](#)
+[![Most used programming languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kernc&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](#)
 
 -----
 
