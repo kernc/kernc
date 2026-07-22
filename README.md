@@ -48,6 +48,7 @@ Some free advice:
 [![XSuspender](https://gh-card.dev/repos/kernc/xsuspender.svg?fullname=)](https://kernc.github.io/xsuspender/)
 [![EF*CK Chat Keyboard](https://gh-card.dev/repos/efck-chat-keyboard/efck.svg?fullname=)](https://efck-chat-keyboard.github.io)
 [![PyCalc-NG](https://gh-card.dev/repos/kernc/PyCalc-NG.svg?fullname=)](https://github.com/kernc/PyCalc-NG)
+[![MyAdwaita](https://gh-card.dev/repos/kernc/MyAdwaita.svg?fullname=)](https://github.com/kernc/MyAdwaita)
 
 
 ## HTML & Web
@@ -59,5 +60,6 @@ Some free advice:
 
 [![logkeys](https://gh-card.dev/repos/kernc/logkeys.svg?fullname=)](https://github.com/kernc/logkeys)
 [![myba](https://gh-card.dev/repos/kernc/myba.svg?fullname=)](https://kernc.github.io/myba/)
+[![totp](https://gh-card.dev/repos/kernc/totp.svg?fullname=)](https://github.com/kernc/totp)
 [![sandbox-venv](https://gh-card.dev/repos/sandbox-utils/sandbox-venv.svg?fullname=)](https://github.com/sandbox-utils/sandbox-venv)
 
