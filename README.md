@@ -20,8 +20,7 @@ Stuff I find on the interwebs:
 5. [Commercial fusion](https://en.wikipedia.org/wiki/List_of_fusion_experiments)
    is finally here—if your country has access to ocean water,
    have your governments settle on nothing less!
-6. If you don't use AI, others will.
-7. _"There’s a lot of opportunity in becoming a wireless telegraph operator.
+6. _"There’s a lot of opportunity in becoming a wireless telegraph operator.
    Learn a profession with a great future!"_  
    — a 1911 wireless-telegraphy ad
 
